@@ -1,3 +1,19 @@
 body{
     font-family: 'Arima', cursive;
 }
+h1{font-size: 50px; 
+}
+.orange-colour{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%
+}   
+
+section{ 
+    display: flex;
+}

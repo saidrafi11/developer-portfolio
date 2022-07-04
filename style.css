@@ -1,5 +1,7 @@
 body{
     font-family: 'Arima', cursive;
+    padding-left: 2%;
+
 }
 h1{font-size: 50px; 
 }
@@ -8,7 +10,6 @@ h1{font-size: 50px;
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
 }
 .half-width img{
     width: 80%
@@ -16,5 +17,16 @@ h1{font-size: 50px;
 
 section{ 
     display: flex;
-.hire-me{ text-decoration: none;
+padding: 50px;}
+.hire-me{ 
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 5px;
+    padding: 10px 50px;
+    color: white;
+    font-weight: 100;
+}
+.first-section{
+background-image:();
+
 }
